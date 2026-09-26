@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: abuayoub-school-v2
+    runtime: node
+    plan: 0.5c-512mb
+    numInstances: 1
+    buildCommand: node --check server.mjs && node --check public/app.js
+    startCommand: node server.mjs
+    healthCheckPath: /api/me
+    envVars:
+      - key: NODE_VERSION
+        value: 24.19.0
+      - key: SCHOOL_BIND
+        value: 0.0.0.0
+      - key: SCHOOL_DATA_DIR
+        value: /var/data/school
+    disk:
+      name: school-data
+      mountPath: /var/data
+      sizeGB: 1

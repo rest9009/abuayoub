@@ -1,0 +1,694 @@
+{
+  "source": "https://schools.madrasati.sa/books",
+  "importedAt": "2026-09-24T18:17:52.7687991Z",
+  "books": [
+    {
+      "id": "1769CD41B5606F55ECFC2BF05CCA7B47",
+      "grade": "g1",
+      "subject": "التربية الفنية",
+      "title": "مقرر التربية الفنية / كتاب الطالب الجزء الأول",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K01-SM1-tart-part1.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=92D9F21100507CCB0C1E9748B4CC68B6&bookId=1769CD41B5606F55ECFC2BF05CCA7B47"
+    },
+    {
+      "id": "CBAEBA2975C5C8AC3A2A65934C6665AC",
+      "grade": "g1",
+      "subject": "التربية الفنية",
+      "title": "مقرر التربية الفنية / كتاب الطالب الجزء الثاني",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K01-SM1-tart.part.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=92D9F21100507CCB0C1E9748B4CC68B6&bookId=CBAEBA2975C5C8AC3A2A65934C6665AC"
+    },
+    {
+      "id": "35B9AF0EA3D9F208B3938D5EF4AA6686",
+      "grade": "g1",
+      "subject": "الرياضيات",
+      "title": "مقرر الرياضيات /كتاب الطالب الجزء الأول ",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K01-SM1-math-part1.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=8477ACF950C00270236FC934A536D14B&bookId=35B9AF0EA3D9F208B3938D5EF4AA6686"
+    },
+    {
+      "id": "7A662D53AB4D69E7143DE5B7F31985CF",
+      "grade": "g1",
+      "subject": "الرياضيات",
+      "title": "مقرر الرياضيات /كتاب الطالب الجزء الثاني",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K01-SM1-math.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=8477ACF950C00270236FC934A536D14B&bookId=7A662D53AB4D69E7143DE5B7F31985CF"
+    },
+    {
+      "id": "D5ADD11923F357841A14B9CAB82FE1E6",
+      "grade": "g1",
+      "subject": "العلوم",
+      "title": "مقرر العلوم /كتاب الطالب الجزء الأول",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K01-SM1-scin-part1.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=CF2D6DD7940260531DEF7F2D2A69B058&bookId=D5ADD11923F357841A14B9CAB82FE1E6"
+    },
+    {
+      "id": "987DBED4EEA41D20647150A2A875B4B4",
+      "grade": "g1",
+      "subject": "العلوم",
+      "title": "مقرر العلوم/ كتاب الطالب الجزء الثاني",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K01-SM1-scin.part.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=CF2D6DD7940260531DEF7F2D2A69B058&bookId=987DBED4EEA41D20647150A2A875B4B4"
+    },
+    {
+      "id": "C7AEB974F4D0E5A2A479673EED6B3C3E",
+      "grade": "g1",
+      "subject": "القرآن الكريم والدراسات الإسلامية",
+      "title": "مقرر الدراسات الإسلامية / كتاب الطالب الجزء الثاني",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K01-SM1-ISLM.part.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=320F4C8583FB6CB076886BA0EB437886&bookId=C7AEB974F4D0E5A2A479673EED6B3C3E"
+    },
+    {
+      "id": "C9FFC4E81B8C1591FD8C82BAB29092BD",
+      "grade": "g1",
+      "subject": "القرآن الكريم والدراسات الإسلامية",
+      "title": "مقرر الدراسات الإسلامية /كتاب الطالب الجزء الأول",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K01-SM1-ISLM-part1.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=320F4C8583FB6CB076886BA0EB437886&bookId=C9FFC4E81B8C1591FD8C82BAB29092BD"
+    },
+    {
+      "id": "9CF94FA16C74D934A4C2DD2ADC381007",
+      "grade": "g1",
+      "subject": "اللغة الإنجليزية",
+      "title": "مقرر We Can / كتاب الطالب الجزء الثاني",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K01-SM1-ENGLMH.part.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=58A776F0287B4C066817BBC2EEA8DD4B&bookId=9CF94FA16C74D934A4C2DD2ADC381007"
+    },
+    {
+      "id": "AE4BD3820F33B7B63FDCEE61ACF8D564",
+      "grade": "g1",
+      "subject": "اللغة الإنجليزية",
+      "title": "مقرر We Can 1  /كتاب الطالب الجزء الأول",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K01-SM1-ENGLMH-part1.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=58A776F0287B4C066817BBC2EEA8DD4B&bookId=AE4BD3820F33B7B63FDCEE61ACF8D564"
+    },
+    {
+      "id": "54DF0585C8B4F7D605177BA8B33D026F",
+      "grade": "g1",
+      "subject": "اللغة العربية",
+      "title": "مقرر لغتي / كتاب الطالب الجزء الثاني",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K01-SM1-lang.part.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=B380CACB4FE12A3479AE8104D32C33F0&bookId=54DF0585C8B4F7D605177BA8B33D026F"
+    },
+    {
+      "id": "96CCB00531E164B2746E406096C15FEC",
+      "grade": "g1",
+      "subject": "اللغة العربية",
+      "title": "مقرر لغتي /كتاب الطالب الجزء الأول",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K01-SM1-lang-part1.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=B380CACB4FE12A3479AE8104D32C33F0&bookId=96CCB00531E164B2746E406096C15FEC"
+    },
+    {
+      "id": "573BCEADC67E090A9D9F573EBDB1B0B5",
+      "grade": "g1",
+      "subject": "المهارات الحياتية والأسرية",
+      "title": "مقرر المهارات الحياتية والأسرية / كتاب الطالب الجزء الأول",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K01-SM1-tfml-part1.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=9FC9015250D63CAB29E464328FE90696&bookId=573BCEADC67E090A9D9F573EBDB1B0B5"
+    },
+    {
+      "id": "FF816E0B95DCA1B27C186E0DCF8838B6",
+      "grade": "g1",
+      "subject": "المهارات الحياتية والأسرية",
+      "title": "مقرر المهارات الحياتية والاسرية /كتاب الطالب الجزء الثاني",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K01-SM1-tfml.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=9FC9015250D63CAB29E464328FE90696&bookId=FF816E0B95DCA1B27C186E0DCF8838B6"
+    },
+    {
+      "id": "5920CD86ED9A6A07EE30ED0A0EAC4507",
+      "grade": "g2",
+      "subject": "التربية الفنية",
+      "title": "مقرر الفنية /كتاب الطالب الجزء الثاني ",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K02-SM1-tart-part2.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=ABC79463C3212A6EA60BD84820DD05FF&bookId=5920CD86ED9A6A07EE30ED0A0EAC4507"
+    },
+    {
+      "id": "8B6DB0E6AE950EDACE8C4D4C9CA661B0",
+      "grade": "g2",
+      "subject": "التربية الفنية",
+      "title": "مقررالتربية الفنية / كتاب الطالب الجزء الأول",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K02-SM1-tart.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=ABC79463C3212A6EA60BD84820DD05FF&bookId=8B6DB0E6AE950EDACE8C4D4C9CA661B0"
+    },
+    {
+      "id": "B26D48EAF5BE657142F959D1B319C4C8",
+      "grade": "g2",
+      "subject": "الرياضيات",
+      "title": "مقرر الرياضيات / كتاب الطالب الجزء الأول",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K02-SM1-math.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=9B1714060220D7E6AC845214CA03935E&bookId=B26D48EAF5BE657142F959D1B319C4C8"
+    },
+    {
+      "id": "209C10EEAED6B263A210782729F54175",
+      "grade": "g2",
+      "subject": "الرياضيات",
+      "title": "مقرر الرياضيات / كتاب الطالب الجزء الثاني",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K02-SM1-math-part2.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=9B1714060220D7E6AC845214CA03935E&bookId=209C10EEAED6B263A210782729F54175"
+    },
+    {
+      "id": "7CFAA38989EA36C10397C1AA46C27196",
+      "grade": "g2",
+      "subject": "العلوم",
+      "title": "مقرر العلوم /كتاب الطالب الجزء الثاني",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K02-SM1-scin-part2.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=6D0305232A115338293C39D6E277CD83&bookId=7CFAA38989EA36C10397C1AA46C27196"
+    },
+    {
+      "id": "A7956C9BFF159EE8209A25ED837847BA",
+      "grade": "g2",
+      "subject": "العلوم",
+      "title": "مقررالعلوم / كتاب الطالب الجزء الأول",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K02-SM1-SCIN.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=6D0305232A115338293C39D6E277CD83&bookId=A7956C9BFF159EE8209A25ED837847BA"
+    },
+    {
+      "id": "9F3DC0753A0896CFB0E37AFE5638E3DB",
+      "grade": "g2",
+      "subject": "القرآن الكريم والدراسات الإسلامية",
+      "title": "مقرر الدراسات الاسلامية / كتاب الطالب الجزء الأول",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K02-SM1-ISLM.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=F09B3279EECC4583A5FF59A653953273&bookId=9F3DC0753A0896CFB0E37AFE5638E3DB"
+    },
+    {
+      "id": "321F281A1A75D6C187D77BA23DC07850",
+      "grade": "g2",
+      "subject": "القرآن الكريم والدراسات الإسلامية",
+      "title": "مقرر الدراسات الاسلامية / كتاب الطالب الجزء الثاني",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K02-SM1-ISLM-part2.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=F09B3279EECC4583A5FF59A653953273&bookId=321F281A1A75D6C187D77BA23DC07850"
+    },
+    {
+      "id": "CE16BA13A0224F5A5ED811916B3C840D",
+      "grade": "g2",
+      "subject": "اللغة الإنجليزية",
+      "title": "مقرر We can  /كتاب الطالب الجزء الثاني ",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K02-SM1-ENGLMH-part2.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=9B4BD15004E9BB905F51F588C975F379&bookId=CE16BA13A0224F5A5ED811916B3C840D"
+    },
+    {
+      "id": "4E02607FA9E32F21B6CAC6A87F4F3BDE",
+      "grade": "g2",
+      "subject": "اللغة الإنجليزية",
+      "title": "مقرر We Can 2  /كتاب الطالب الجزء الأول",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K02-SM1-ENGLMH-part1.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=9B4BD15004E9BB905F51F588C975F379&bookId=4E02607FA9E32F21B6CAC6A87F4F3BDE"
+    },
+    {
+      "id": "82E90434C24E1FDA82B7C78DA2868A29",
+      "grade": "g2",
+      "subject": "اللغة العربية",
+      "title": "مقرر لغتي / كتاب الطالب الجزء الأول",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K02-SM1-lang.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=7798C67F07C5D820DB7551C8EC1DCCD9&bookId=82E90434C24E1FDA82B7C78DA2868A29"
+    },
+    {
+      "id": "F0AC168F34AF99A11ABD2718F1A19D39",
+      "grade": "g2",
+      "subject": "اللغة العربية",
+      "title": "مقرر لغتي / كتاب الطالب الجزء الثاني",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K02-SM1-lang-part2.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=7798C67F07C5D820DB7551C8EC1DCCD9&bookId=F0AC168F34AF99A11ABD2718F1A19D39"
+    },
+    {
+      "id": "1740640A20098B96C136C1E5CF11F24A",
+      "grade": "g2",
+      "subject": "المهارات الحياتية والأسرية",
+      "title": "مقرر المهارات الحياتية والأسرية / كتاب الطالب الجزء الأول",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K02-SM1-tfml-part1.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=F0FBC3D022DF232E4F47B2581B7AB9EE&bookId=1740640A20098B96C136C1E5CF11F24A"
+    },
+    {
+      "id": "E343338A1822E227F1628754EFF56CB7",
+      "grade": "g2",
+      "subject": "المهارات الحياتية والأسرية",
+      "title": "مقرر المهارات الحياتية والاسرية /كتاب الطالب الجزء الثاني",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K02-SM1-tfml.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=F0FBC3D022DF232E4F47B2581B7AB9EE&bookId=E343338A1822E227F1628754EFF56CB7"
+    },
+    {
+      "id": "9CC106718028B71BFD9BA59B075C55D9",
+      "grade": "g3",
+      "subject": "التربية الفنية",
+      "title": "مقرر التربية الفنية / كتاب الطالب الجزء الأول",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K03-SM1-tart-part1.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=6950B12B6DD2CF21CF118BD845584A56&bookId=9CC106718028B71BFD9BA59B075C55D9"
+    },
+    {
+      "id": "71E0F84133FF8B556650C3428DC51BAD",
+      "grade": "g3",
+      "subject": "التربية الفنية",
+      "title": "مقرر الرتبية الفنية /كتاب الطالب الجزء الثاني ",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K03-SM1-tart-PART2.PDF",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=6950B12B6DD2CF21CF118BD845584A56&bookId=71E0F84133FF8B556650C3428DC51BAD"
+    },
+    {
+      "id": "B27A713AC8807539A576CB56E952FD04",
+      "grade": "g3",
+      "subject": "الرياضيات",
+      "title": "مقرر الرياضيات /كتاب الطالب الجزء الأول ",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K03-SM1-math-part1.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=D99326C97D7968E829E079D4B38D0A9C&bookId=B27A713AC8807539A576CB56E952FD04"
+    },
+    {
+      "id": "B7F3FBD899201F8A6188377F9642C9CF",
+      "grade": "g3",
+      "subject": "الرياضيات",
+      "title": "مقررالرياضيات /كتاب الطالب الجزء الثاني",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K03-SM1-math-PART2.PDF",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=D99326C97D7968E829E079D4B38D0A9C&bookId=B7F3FBD899201F8A6188377F9642C9CF"
+    },
+    {
+      "id": "2351669E0BC263B07F022E82AE2ABA33",
+      "grade": "g3",
+      "subject": "العلوم",
+      "title": "مقرر العلوم /كتاب الطالب الجزء الثاني",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K03-SM1-scin-PART2.PDF",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=B3EA61F05826258A49307DFF621C5FF5&bookId=2351669E0BC263B07F022E82AE2ABA33"
+    },
+    {
+      "id": "44C303EFEC40FA89005C087B9B56A75C",
+      "grade": "g3",
+      "subject": "العلوم",
+      "title": "مقررالعلوم / كتاب الطالب الجزء الأول",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K03-SM1-scin.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=B3EA61F05826258A49307DFF621C5FF5&bookId=44C303EFEC40FA89005C087B9B56A75C"
+    },
+    {
+      "id": "187BE2E65D4810F22A8BA28183739EC1",
+      "grade": "g3",
+      "subject": "القرآن الكريم والدراسات الإسلامية",
+      "title": "مقرر الدراسات الإسلامية /كتاب الطالب الجزء الأول",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K03-SM1-ISLM-part1.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=D18F9912263498AB54D10BC007D3AA2B&bookId=187BE2E65D4810F22A8BA28183739EC1"
+    },
+    {
+      "id": "083AD5AC0F9ABC6937F51AD487722F02",
+      "grade": "g3",
+      "subject": "القرآن الكريم والدراسات الإسلامية",
+      "title": "مقرر الدراسات الإسلامية /كتاب الطالب الجزء الثاني",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K03-SM1-ISLM-PART2.PDF",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=D18F9912263498AB54D10BC007D3AA2B&bookId=083AD5AC0F9ABC6937F51AD487722F02"
+    },
+    {
+      "id": "0A814D1FAD81451FF08FD392B458EBA9",
+      "grade": "g3",
+      "subject": "اللغة الإنجليزية",
+      "title": "كتاب الطالب الجزء الأول /  We can ",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K03-SM1-ENGLMH.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=62DE08965ABFFF085C499DE55503FC7F&bookId=0A814D1FAD81451FF08FD392B458EBA9"
+    },
+    {
+      "id": "D4EAB28214777995082851C902B5C1B6",
+      "grade": "g3",
+      "subject": "اللغة الإنجليزية",
+      "title": "مقرر We can  /كتاب الطالب الجزء الثاني ",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K03-SM1-ENGLMH-PART2.PDF",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=62DE08965ABFFF085C499DE55503FC7F&bookId=D4EAB28214777995082851C902B5C1B6"
+    },
+    {
+      "id": "CE97ED11A004898B390189AE8EE7C60F",
+      "grade": "g3",
+      "subject": "اللغة العربية",
+      "title": "مقرر لغتي /كتاب الطالب الجزء الأول",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K03-SM1-lang-part1.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=5F8E46888F23125BFB4AA33DD99F6236&bookId=CE97ED11A004898B390189AE8EE7C60F"
+    },
+    {
+      "id": "E68B1592E67807483D4E5767EDC9ABB1",
+      "grade": "g3",
+      "subject": "اللغة العربية",
+      "title": "مقرر لغتي /كتاب الطالب الجزء الثاني",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K03-SM1-lang-part2.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=5F8E46888F23125BFB4AA33DD99F6236&bookId=E68B1592E67807483D4E5767EDC9ABB1"
+    },
+    {
+      "id": "E4A913DEACF636EF4642FA087FA15A8A",
+      "grade": "g3",
+      "subject": "المهارات الحياتية والأسرية",
+      "title": "مقرر المهارات الحياتية والاسرية /كتاب الطالب الجزء الأول",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K03-SM1-tfml-part1.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=70CEAD61482BF80104C1F380BF13C140&bookId=E4A913DEACF636EF4642FA087FA15A8A"
+    },
+    {
+      "id": "F3FAC42EA73919EDA9CB1037FAAB6C48",
+      "grade": "g3",
+      "subject": "المهارات الحياتية والأسرية",
+      "title": "مقرر المهارات الحياتية والاسرية /كتاب الطالب الجزء الثاني",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K03-SM1-tfml.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=70CEAD61482BF80104C1F380BF13C140&bookId=F3FAC42EA73919EDA9CB1037FAAB6C48"
+    },
+    {
+      "id": "22B3DE0EEAB77553551971DDD09569FD",
+      "grade": "g4",
+      "subject": "التجويد (التحفيظ)",
+      "title": "مقرر التجويد /كتاب الطالب",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K04-SM1-TTGWD.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=A3EA2783D69672DB79F76636C8618336&bookId=22B3DE0EEAB77553551971DDD09569FD"
+    },
+    {
+      "id": "14096401413BADAB5D337802A6A89668",
+      "grade": "g4",
+      "subject": "التربية الفنية",
+      "title": "مقرر التربية الفنية/ كتاب الطالب ",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K04-SM1-tart.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=9C96E06AB7B39A2C6C06ED523616AE4F&bookId=14096401413BADAB5D337802A6A89668"
+    },
+    {
+      "id": "A398A6D9B53A84BEF612569B6633E851",
+      "grade": "g4",
+      "subject": "الدراسات الاجتماعية",
+      "title": "مقرر الدراسات الاجتماعية / كتاب الطالب ",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K04-SM1-EJTSM.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=D452DE58816A5EAAA2CF797B7D02B3AE&bookId=A398A6D9B53A84BEF612569B6633E851"
+    },
+    {
+      "id": "85C201555A4DC8979AD16526BB145211",
+      "grade": "g4",
+      "subject": "الرياضيات",
+      "title": "مقرر الرياضيات / كتاب الطالب الجزء الأول",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K04-SM1-math.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=1A1A61B29189F4455DBA35D00BBB3451&bookId=85C201555A4DC8979AD16526BB145211"
+    },
+    {
+      "id": "94CAE7559140C7A2762A6A86EDBAC961",
+      "grade": "g4",
+      "subject": "الرياضيات",
+      "title": "مقرر الرياضيات / كتاب الطالب الجزء الثاني",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K04-SM1-math.part.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=1A1A61B29189F4455DBA35D00BBB3451&bookId=94CAE7559140C7A2762A6A86EDBAC961"
+    },
+    {
+      "id": "98D3D504AD9537E78EF7366D2DC31033",
+      "grade": "g4",
+      "subject": "العلوم",
+      "title": "مقرر العلوم / كتاب الطالب الجزء الثاني",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K04-SM1-scin.part.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=07D159D2AEB1215A453DAD2099943B56&bookId=98D3D504AD9537E78EF7366D2DC31033"
+    },
+    {
+      "id": "5A318EE2F30CAC0A52641783774E5899",
+      "grade": "g4",
+      "subject": "العلوم",
+      "title": "مقرر العلوم /كتاب الطالب الجزء الأول",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K04-SM1-scin-part1.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=07D159D2AEB1215A453DAD2099943B56&bookId=5A318EE2F30CAC0A52641783774E5899"
+    },
+    {
+      "id": "C5AE55C9383301AA96FA9E0434AD841A",
+      "grade": "g4",
+      "subject": "القرآن الكريم والدراسات الإسلامية",
+      "title": "مقرر الدراسات الإسلامية / كتاب الطالب",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K04-SM1-ISLM.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=8C914BCD4171478414E376EFCF59BFF4&bookId=C5AE55C9383301AA96FA9E0434AD841A"
+    },
+    {
+      "id": "122F4F9D0BBB66129B13166A3667A438",
+      "grade": "g4",
+      "subject": "اللغة الإنجليزية",
+      "title": "مقرر Top Goal1 / كتاب الطالب",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K04-SM1-ENMG.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=39408C18E08B8C5D02FC79A5E2BF7E28&bookId=122F4F9D0BBB66129B13166A3667A438"
+    },
+    {
+      "id": "EC7000CC07DE16F885040130D45FC66B",
+      "grade": "g4",
+      "subject": "اللغة العربية",
+      "title": "مقرر لغتي الجميلة / كتاب الطالب الجزء الأول",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K04-SM1-BLNG.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=95B67CE1910512CCE8CD69A1A6399722&bookId=EC7000CC07DE16F885040130D45FC66B"
+    },
+    {
+      "id": "68080DAB019D2AD74E4315F23874AA92",
+      "grade": "g4",
+      "subject": "اللغة العربية",
+      "title": "مقرر لغتي الجميلة / كتاب الطالب الجزء الثاني",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K04-SM1-BLNG.part.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=95B67CE1910512CCE8CD69A1A6399722&bookId=68080DAB019D2AD74E4315F23874AA92"
+    },
+    {
+      "id": "2DBAFE30CE110A67A0CF6DFEAA20E183",
+      "grade": "g4",
+      "subject": "المهارات الحياتية والأسرية",
+      "title": "مقرر المهارات الحياتية والاسرية  /كتاب الطالب ",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K04-SM1-tfml.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=3BC2B72B4F25FB6129D43DFECBD129B8&bookId=2DBAFE30CE110A67A0CF6DFEAA20E183"
+    },
+    {
+      "id": "D24431A67F31ED05ED60B07DE85B899B",
+      "grade": "g4",
+      "subject": "المهارات الرقمية",
+      "title": "مقرر المهارات الرقمية / كتاب الطالب",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K04-SM1-mcomp.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=F5616838DB85DED8A26F010FBC67BF87&bookId=D24431A67F31ED05ED60B07DE85B899B"
+    },
+    {
+      "id": "1D5D9011C7AE6A056339EBFDD0BAD4F8",
+      "grade": "g5",
+      "subject": "التجويد (التحفيظ)",
+      "title": "مقرر التجويد /كتاب الطالب",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K05-SM1-TTGWD.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=3EA556EB94F00924612A2A17925BF852&bookId=1D5D9011C7AE6A056339EBFDD0BAD4F8"
+    },
+    {
+      "id": "94F51BCF790D25B39F1A864CB95D7B70",
+      "grade": "g5",
+      "subject": "التربية الفنية",
+      "title": "مقرر التربية الفنية / كتاب الطالب",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K05-SM1-tart.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=BF15517B049D652A72A3CEF8DF0763ED&bookId=94F51BCF790D25B39F1A864CB95D7B70"
+    },
+    {
+      "id": "615843870B9F83AC5A8AED68A60A1E4F",
+      "grade": "g5",
+      "subject": "الدراسات الاجتماعية",
+      "title": "مقرر الدراسات الاجتماعية / كتاب الطالب ",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K05-SM1-EJTSM.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=DF0238D28C7F912694B0F8895EBF90D4&bookId=615843870B9F83AC5A8AED68A60A1E4F"
+    },
+    {
+      "id": "4091ACA6A9BA8EA819124C7D4406CE50",
+      "grade": "g5",
+      "subject": "الرياضيات",
+      "title": "مقرر الرياضيات / كتاب الطالب الجزء الأول",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K05-SM1-math.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=10505CC78BDA40056317A961CA49382D&bookId=4091ACA6A9BA8EA819124C7D4406CE50"
+    },
+    {
+      "id": "041B727D6E21F0E0BB7E739B98EE3297",
+      "grade": "g5",
+      "subject": "الرياضيات",
+      "title": "مقرر الرياضيات / كتاب الطالب الجزء الثاني",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K05-SM1-math.part.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=10505CC78BDA40056317A961CA49382D&bookId=041B727D6E21F0E0BB7E739B98EE3297"
+    },
+    {
+      "id": "1B59AC1DD246F8904C4CF0EB8FFBA7FC",
+      "grade": "g5",
+      "subject": "العلوم",
+      "title": "مقرر العلوم / كتاب الطالب الجزء الأول",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K05-SM1-SCIN.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=56A03540F4C0AFFFE8CAAE320FAEB030&bookId=1B59AC1DD246F8904C4CF0EB8FFBA7FC"
+    },
+    {
+      "id": "A750F2B32DDCD3594498D0200A1AE3BD",
+      "grade": "g5",
+      "subject": "العلوم",
+      "title": "مقرر العلوم / كتاب الطالب الجزء الثاني",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K05-SM1-scin.part.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=56A03540F4C0AFFFE8CAAE320FAEB030&bookId=A750F2B32DDCD3594498D0200A1AE3BD"
+    },
+    {
+      "id": "52E3EA2209D6941735F2D894F8EE2D3D",
+      "grade": "g5",
+      "subject": "القرآن الكريم والدراسات الإسلامية",
+      "title": "مقرر الدراسات الإسلامية /كتاب الطالب ",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K05-SM1-ISLM.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=2C1635F40397D0B85AB1C3D202D58341&bookId=52E3EA2209D6941735F2D894F8EE2D3D"
+    },
+    {
+      "id": "25339A9F46208926F4FE80099CE03A3F",
+      "grade": "g5",
+      "subject": "القرآن الكريم والدراسات الإسلامية",
+      "title": "مقرر تلاوة القران الكريم وتجويده/كتاب الطالب ",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K05-SM1-tgwd.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=2C1635F40397D0B85AB1C3D202D58341&bookId=25339A9F46208926F4FE80099CE03A3F"
+    },
+    {
+      "id": "78BE0789E22F4FA8FBD892E42B6AC1CB",
+      "grade": "g5",
+      "subject": "اللغة العربية",
+      "title": "مقرر لغتي الجميلة / كتاب الطالب الجزء الأول",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K05-SM1-BLNG.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=FF09464A7ABC9246465FC0BD63B54BB8&bookId=78BE0789E22F4FA8FBD892E42B6AC1CB"
+    },
+    {
+      "id": "92DC85FECC9AA888DC1B22BED666C8ED",
+      "grade": "g5",
+      "subject": "اللغة العربية",
+      "title": "مقرر لغتي الجميلة / كتاب الطالب الجزء الثاني",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K05-SM1-blng.part.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=FF09464A7ABC9246465FC0BD63B54BB8&bookId=92DC85FECC9AA888DC1B22BED666C8ED"
+    },
+    {
+      "id": "A86AEF9CFC8B5F6B3191B785BF45307E",
+      "grade": "g5",
+      "subject": "المهارات الحياتية والأسرية",
+      "title": "مقرر المهارات الحياتية والاسرية /كتاب الطالب",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K05-SM1-tfml.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=D7DF2E746669C5EB9FF96CCA94DD1496&bookId=A86AEF9CFC8B5F6B3191B785BF45307E"
+    },
+    {
+      "id": "70DEC77A117A302EC2B5BCEC09A8169A",
+      "grade": "g5",
+      "subject": "المهارات الرقمية",
+      "title": "مقرر المهارات الرقمية / كتاب الطالب ",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K05-SM1-mcomp.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=051B0594BC57461F84C31392C775D807&bookId=70DEC77A117A302EC2B5BCEC09A8169A"
+    },
+    {
+      "id": "79718725BDCC69F6F1C41E8A9B41F168",
+      "grade": "g5",
+      "subject": "Top Goal2",
+      "title": "مقرر TopGoal2 /كتاب الطالب ",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K05-SM1-ENMG.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=FB960026C36870C24751431464E92A2B&bookId=79718725BDCC69F6F1C41E8A9B41F168"
+    },
+    {
+      "id": "304225C032FEF16E4B397194BB4C0E00",
+      "grade": "g6",
+      "subject": "التجويد (التحفيظ)",
+      "title": "مقرر التجويد /كتاب الطالب",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K06-SM1-TTGWD.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=9373E1267D304EC4BA46557A6732FCA6&bookId=304225C032FEF16E4B397194BB4C0E00"
+    },
+    {
+      "id": "45E3C7C5919EAEF34D93EC13941B3FC0",
+      "grade": "g6",
+      "subject": "التربية الفنية",
+      "title": "مقرر التربية الفنية / كتاب الطالب",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K06-SM1-tart.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=6251D96BA92B57C5ABA5BF2836D5B087&bookId=45E3C7C5919EAEF34D93EC13941B3FC0"
+    },
+    {
+      "id": "DF004C70AF92B37CD2EB1FE149075405",
+      "grade": "g6",
+      "subject": "الدراسات الاجتماعية",
+      "title": "مقرر الدراسات الاجتماعية / كتاب الطالب",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K06-SM1-EJTSM.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=7B268CE6BDF80F1711C2BE364B48F514&bookId=DF004C70AF92B37CD2EB1FE149075405"
+    },
+    {
+      "id": "03BD967CD9BB37615D3E7C803F49C080",
+      "grade": "g6",
+      "subject": "الرياضيات",
+      "title": "مقرر الرياضيات / كتاب الطالب الجزء الأول",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K06-SM1-math.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=FE74BE092DC00C807355958BF9FBAF42&bookId=03BD967CD9BB37615D3E7C803F49C080"
+    },
+    {
+      "id": "28DCFC8F5BC79FD230B03E6FAD62AD14",
+      "grade": "g6",
+      "subject": "الرياضيات",
+      "title": "مقرر الرياضيات / كتاب الطالب الجزء الثاني",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K06-SM1-math.part.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=FE74BE092DC00C807355958BF9FBAF42&bookId=28DCFC8F5BC79FD230B03E6FAD62AD14"
+    },
+    {
+      "id": "F824B34AB6ABF4354F9C22E9AAD36170",
+      "grade": "g6",
+      "subject": "العلوم",
+      "title": "مقرر العلوم / كتاب الطالب الجزء الأول",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K06-SM1-SCIN.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=F29DA4E8FC4B4ECB71E469031A5EC55C&bookId=F824B34AB6ABF4354F9C22E9AAD36170"
+    },
+    {
+      "id": "D7412AD58720F3543733F0FFE05CB985",
+      "grade": "g6",
+      "subject": "العلوم",
+      "title": "مقرر العلوم / كتاب الطالب الجزء الثاني",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K06-SM1-scin.part.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=F29DA4E8FC4B4ECB71E469031A5EC55C&bookId=D7412AD58720F3543733F0FFE05CB985"
+    },
+    {
+      "id": "DEEF569345771973E0871B7A51CA753A",
+      "grade": "g6",
+      "subject": "القرآن الكريم والدراسات الإسلامية",
+      "title": "مقرر الدراسات الاسلامية / كتاب الطالب",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K06-SM1-ISLM.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=64700CFB2E0E577B37A21A7EFF0CCB1A&bookId=DEEF569345771973E0871B7A51CA753A"
+    },
+    {
+      "id": "F239E2443558668477B669CDA19826D6",
+      "grade": "g6",
+      "subject": "القرآن الكريم والدراسات الإسلامية",
+      "title": "مقرر تلاوة القرآن الكريم و تجويده / كتاب الطالب",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K06-SM1-tgwd.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=64700CFB2E0E577B37A21A7EFF0CCB1A&bookId=F239E2443558668477B669CDA19826D6"
+    },
+    {
+      "id": "6938FB376F658390305403942511377C",
+      "grade": "g6",
+      "subject": "اللغة العربية",
+      "title": "مقرر لغتي الجميلة / كتاب الطالب الجزء الأول",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K06-SM1-BLNG.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=AD557C9E645246F811F9563548AC9D83&bookId=6938FB376F658390305403942511377C"
+    },
+    {
+      "id": "F1B557A5C98DE668A3CB111B59C554CD",
+      "grade": "g6",
+      "subject": "اللغة العربية",
+      "title": "مقرر لغتي الجميلة / كتاب الطالب الجزء الثاني",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K06-SM1-blng.part.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=AD557C9E645246F811F9563548AC9D83&bookId=F1B557A5C98DE668A3CB111B59C554CD"
+    },
+    {
+      "id": "68B7E17F226540D74758D8C525081AE6",
+      "grade": "g6",
+      "subject": "المهارات الحياتية والأسرية",
+      "title": "مقرر المهارات الحياتية والاسرية /كتاب الطالب",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K06-SM1-tfml.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=80A6EB79E6227D9CAEA557107EC3E9E0&bookId=68B7E17F226540D74758D8C525081AE6"
+    },
+    {
+      "id": "595E9BDDB10C67BCD190F9D19311EDCE",
+      "grade": "g6",
+      "subject": "المهارات الرقمية",
+      "title": "مقرر المهارات الرقمية / كتاب الطالب ",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K06-SM1-mcomp.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=77B2684A9D870AB15D502927E437ECD7&bookId=595E9BDDB10C67BCD190F9D19311EDCE"
+    },
+    {
+      "id": "8E2F509C7CAAC738DC3A024F4AE948F1",
+      "grade": "g6",
+      "subject": "Top Goal3",
+      "title": "مقرر Top Goal3 /كتاب الطالب ",
+      "url": "https://iencontent.ien.edu.sa/books/1448-GE-PE-K06-SM1-ENMG.pdf",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=58E615A057C1B25A2D05C68323D714BD&bookId=8E2F509C7CAAC738DC3A024F4AE948F1"
+    },
+    {
+      "id": "4DE8064C679F3351F84228ECD4C3A92E",
+      "grade": "g6",
+      "subject": "Top Goal3",
+      "title": "Audio Files TG3",
+      "url": "https://iencontent.ien.edu.sa/books/Audio Files TG3.zip",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=58E615A057C1B25A2D05C68323D714BD&bookId=4DE8064C679F3351F84228ECD4C3A92E"
+    },
+    {
+      "id": "20F9D9C02D2486AEA689FFC3339F7CC4",
+      "grade": "g6",
+      "subject": "Top Goal3",
+      "title": "Test Bank",
+      "url": "https://iencontent.ien.edu.sa/books/TestBank.zip",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=58E615A057C1B25A2D05C68323D714BD&bookId=20F9D9C02D2486AEA689FFC3339F7CC4"
+    },
+    {
+      "id": "E7BE695DD9C58F9133E5E309CEF55668",
+      "grade": "g6",
+      "subject": "Top Goal3",
+      "title": "TOP GOAL 3 WB",
+      "url": "https://iencontent.ien.edu.sa/books/TOP GOAL 3 WB.zip",
+      "source": "https://schools.madrasati.sa/books/download?subjectId=58E615A057C1B25A2D05C68323D714BD&bookId=E7BE695DD9C58F9133E5E309CEF55668"
+    }
+  ]
+}
